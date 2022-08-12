@@ -1,2 +1,4 @@
 # kaggle_spaceship_titanic
-This repository is dedicated to my resolutions of the Kaggle new Spaceship Titanic challengue.
+This repository is dedicated to my resolutions of the Kaggle new [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic/overview) challengue.
+
+First submission score = 0.79144
